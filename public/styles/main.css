@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+    height: 100%;
+    border-radius: 80px;
+    background-color: magenta;
+}
+body {
+    color: purple;
+}
+h1 {
+    text-align: center;
+}
+body {
+    background-color: pink;
+}
